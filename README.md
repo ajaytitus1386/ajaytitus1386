@@ -2,7 +2,7 @@
 
 <div align="center" >
 <h1>A Bit About Me</h1>
-<p>I am a Final Year Computer Science Student currently focused on Frontend Development in Web and Mobile Tech. I have worked on a collection of Personal, Academic and Real World Projects, most of which you can find on this Github profile. I have a passion for working on projects that directly influence or interact with the customer's experience and perspective</p>
+<p>I'm a recently Graduated Computer Science Student currently focused on Frontend Development in Web and Mobile Tech. I have worked on a collection of Personal, Academic and Real World Projects, most of which you can find on this Github profile. I like helping a solution find its way into the hands of its person. </p>
 
 <h2>Skill Stack</h2>
 
